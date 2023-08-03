@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: ADO_ORG
+  name: Default
 
 variables:
   buildConfiguration: 'Release'
